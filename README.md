@@ -58,6 +58,10 @@ Data Analysis Summary
 ![Graph_1 1](https://user-images.githubusercontent.com/78367070/203587270-50e89842-b056-4f79-9178-d64d773988cf.png)
 
 
+<img width="655" alt="Graph_01" src="https://user-images.githubusercontent.com/78367070/203588110-7ea08143-de1a-4cdc-b977-5b5df5d810b2.png">
+
+
+
 
 &nbsp;
 * The 
