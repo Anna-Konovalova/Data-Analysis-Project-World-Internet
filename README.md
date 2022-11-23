@@ -57,10 +57,8 @@ Data Analysis Summary
 
 &nbsp;
 * In the 10 year period from 2007 to 2017 Scandinavian and Northern European contries dominated in terms of the highest internet usage by population share. This suggests that these are the top countries in the world where majority of people in all geographic areas (e.g. urban, rural) are connected to the internet.
-
-
 &nbsp;
-#### Second, I look at the highest internet use (by population share) for year 2017 only.
+#### Second, I look at the highest internet use (by population share) for the year 2017 only.
 &nbsp;
 
 
@@ -68,10 +66,7 @@ Data Analysis Summary
 
 
 &nbsp;
-* Narrowing down the previous analysis to 2017 only, shows that out of all the countries dominating the 2007-2017 period, Lichtenstein, Iceland, Denmark, Luxembourg, Bermuda are still standing at the top.
+* Narrowing down the previous analysis to 2017 only, shows that out of all the countries dominating the 2007-2017 period, Lichtenstein, Iceland, Denmark, Luxembourg and Bermuda are still standing at the top.
 * However, in 2017 compared to 2007-2017 there several other contries with the highest Internet use by population share. Specifically, Kuwait (Middle East), Qatar (Middle East), Aruba (South America) and Monaco (Western Europe). 
-
-
 &nbsp;
-
 ### 2. What are the top 10 countries with the highest internet use (by number of users)?
