@@ -10,12 +10,12 @@ The creation of the World Wide Web in 1989 revolutionized our history of communi
 1. What are the top 10 countries with the highest internet use (by population share)?
 2. What are the top 10 countries with the highest internet use (by number of users)? 
 3. What are the top countries with the highest internet use for each of the following regions?
-  * 'Middle East & North Africa'
-  * 'Latin America & Caribbean'
-  * 'East Asia & Pacific'
-  * 'South Asia'
-  * 'North America'
-  * 'Europe & Central Asia'
+⋅⋅⋅* 'Middle East & North Africa'
+⋅⋅⋅* 'Latin America & Caribbean'
+⋅⋅⋅* 'East Asia & Pacific'
+⋅⋅⋅* 'South Asia'
+⋅⋅⋅* 'North America'
+⋅⋅⋅* 'Europe & Central Asia'
 4. World regions Internet usage over time (by population share)
 5. World regions Internet usage over time (by number of users)
 
@@ -42,3 +42,4 @@ The following csv files have been compiled:
 - "Code" - Unique id for the country (null for other entities).
 - "Year" - Year from 1990 to 2020.
 - "Users" - The number of people who have used the internet in the last three months for that country, region, or group.
+
