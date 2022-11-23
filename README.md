@@ -53,8 +53,8 @@ Data Analysis Summary
 
 <img width="655" alt="Graph_01" src="https://user-images.githubusercontent.com/78367070/203588110-7ea08143-de1a-4cdc-b977-5b5df5d810b2.png">
 &nbsp;
-* In the 10 year period from 2007 to 2017 Scandinavian and Northern European contries dominated in terms of the highest internet usage by population share. This suggests that these are the top countries in the world where majority of people in all geographic areas (e.g. urban, rural) are connected to the internet.
-* 
+ * In the 10 year period from 2007 to 2017 Scandinavian and Northern European contries dominated in terms of the highest internet usage by population share. This suggests that these are the top countries in the world where majority of people in all geographic areas (e.g. urban, rural) are connected to the internet.
+ * 
 &nbsp;
 
 &nbsp;
