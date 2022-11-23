@@ -104,4 +104,4 @@ Data Analysis Summary
 ![Graph_6 3](https://user-images.githubusercontent.com/78367070/203603136-ca3ed4f8-84a3-4380-b12a-c8e86df0b466.png)
 
 - The overarching trend globally, as the chart shows, is clear: more and more people are online every year. The speed with which the world is changing is incredibly fast. For instance, on any day in the last 10 years there were on average 681,801 people online for the first time. That is 28,408 every hour. 
-- It is important to note, however, that we are still in the very early stages of the internet. In 2020, almost 4.5bn people were connected to the Internet. That is almost half of the World population! (Source: (WorldOMeter)[https://www.worldometers.info/world-population/]). 
+- It is important to note, however, that we are still in the very early stages of the Internet. In 2020, around 4.5bn people were connected to the Internet. That is almost half of the World population! (Source: (WorldOMeter)[https://www.worldometers.info/world-population/]). 
