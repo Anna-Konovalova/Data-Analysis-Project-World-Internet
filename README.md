@@ -102,4 +102,5 @@ Data Analysis Summary
 &nbsp;
 
 ![Graph_6 3](https://user-images.githubusercontent.com/78367070/203603136-ca3ed4f8-84a3-4380-b12a-c8e86df0b466.png)
-&nbsp;
+
+The overarching trend globally, as the chart shows, is clear: more and more people are online every year. The speed with which the world is changing is incredibly fast. On any day in the last 5 years there were on average 681,801 people online for the first time. That is 28,408 every hour. 
