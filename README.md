@@ -54,8 +54,7 @@ Data Analysis Summary
 <img width="655" alt="Graph_01" src="https://user-images.githubusercontent.com/78367070/203588110-7ea08143-de1a-4cdc-b977-5b5df5d810b2.png">
 
 - In the 10 year period from 2007 to 2017 Scandinavian and Northern European contries dominated in terms of the highest internet usage by population share. This suggests that these are the top countries in the world where majority of people in all geographic areas (e.g. urban, rural) are connected to the internet.
-- 
-&nbsp;
+
 
 &nbsp;
 #### Second, I look at the highest internet use (by population share) for the year 2017 only.
@@ -63,8 +62,8 @@ Data Analysis Summary
 
 <img width="655" alt="Graph_2 3" src="https://user-images.githubusercontent.com/78367070/203590921-fbdbfb86-792d-402a-9911-0ce2171e94af.png">
 &nbsp;
-* Narrowing down the previous analysis to 2017 only, shows that out of all the countries dominating the 2007-2017 period, Lichtenstein, Iceland, Denmark, Luxembourg and Bermuda are still standing at the top.
-* However, in 2017 compared to 2007-2017 there several other contries with the highest Internet use by population share. Specifically, Kuwait (Middle East), Qatar (Middle East), Aruba (South America) and Monaco (Western Europe).  
+- Narrowing down the previous analysis to 2017 only, shows that out of all the countries dominating the 2007-2017 period, Lichtenstein, Iceland, Denmark, Luxembourg and Bermuda are still standing at the top.
+- However, in 2017 compared to 2007-2017 there several other contries with the highest Internet use by population share. Specifically, Kuwait (Middle East), Qatar (Middle East), Aruba (South America) and Monaco (Western Europe).
 &nbsp;
 
 &nbsp;
@@ -73,8 +72,8 @@ Data Analysis Summary
 
 <img width="655" alt="Graph_03" src="https://user-images.githubusercontent.com/78367070/203594437-e7515193-0e2f-4b25-b08c-ec2392afe2b4.png">
 &nbsp;
-* The top countries with the highest internet use by number of users include China, India, United States, Brazil, Indonesia, Russia, Japan, Mexico, Egypt and Germany.  
-* These countries differ significantly to the top countries with the highest internet use by population share (shown before). Noticeably, most of these countries have larger populations comparing to Scandinavian and Northern European countries. This suggests that with a bigger population, more people are connected to the internet. However, this does not necessarily mean that all geographical areas within those countries are proportionally connected to the Web. 
+- The top countries with the highest internet use by number of users include China, India, United States, Brazil, Indonesia, Russia, Japan, Mexico, Egypt and Germany.
+- These countries differ significantly to the top countries with the highest internet use by population share (shown before). Noticeably, most of these countries have larger populations comparing to Scandinavian and Northern European countries. This suggests that with a bigger population, more people are connected to the internet. However, this does not necessarily mean that all geographical areas within those countries are proportionally connected to the Web. 
 &nbsp;
 
 &nbsp;
