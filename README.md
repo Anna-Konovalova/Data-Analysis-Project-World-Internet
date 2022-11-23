@@ -56,6 +56,7 @@ Data Analysis Summary
 * In the 10 year period from 2007 to 2017 Scandinavian and Northern European contries dominated in terms of the highest internet usage by population share. This suggests that these are the top countries in the world where majority of people in all geographic areas (e.g. urban, rural) are connected to the internet.
 &nbsp;
 
+&nbsp;
 #### Second, I look at the highest internet use (by population share) for the year 2017 only.
 &nbsp;
 
@@ -65,7 +66,7 @@ Data Analysis Summary
 * However, in 2017 compared to 2007-2017 there several other contries with the highest Internet use by population share. Specifically, Kuwait (Middle East), Qatar (Middle East), Aruba (South America) and Monaco (Western Europe). 
 &nbsp;
 
-
+&nbsp;
 ### 2. What are the top 10 countries with the highest internet use (by number of users)?
 &nbsp;
 
@@ -75,7 +76,7 @@ Data Analysis Summary
 * These countries differ significantly to the top countries with the highest internet use by population share (shown before). Noticeably, most of these countries have larger populations comparing to Scandinavian and Northern European countries. This suggests that with a bigger population, more people are connected to the internet. However, this does not necessarily mean that all geographical areas within those countries are proportionally connected to the Web.
 &nbsp;
 
-
+&nbsp;
 ### 3. What are the top countries with the highest internet use in different World regions?
 &nbsp;
 
@@ -84,7 +85,7 @@ Data Analysis Summary
 * Noticeably, South Asian countries have the lowest population proportions using Internet. 
 &nbsp;
 
-
+&nbsp;
 ### 4. World regions Internet usage over time (by population share)
 &nbsp;
 
@@ -96,9 +97,9 @@ Data Analysis Summary
 * Middle East and North Africa, Latin America and Caribbean, East Asia and Pacific are all between 50 and 70% of their respective population shares in 2017.
 * The slowest growth in Internet usage over the years is seen by South Asia, having just under 30% of population using the Internet in 2017.
 
-
+&nbsp;
 ### 5. World regions Internet usage over time (by number of users)
 &nbsp;
 
-![Graph_6](https://user-images.githubusercontent.com/78367070/203599798-a131b021-7184-48c5-abc5-09518cbf03c6.png)
+![Graph_6 3](https://user-images.githubusercontent.com/78367070/203603136-ca3ed4f8-84a3-4380-b12a-c8e86df0b466.png)
 &nbsp;
