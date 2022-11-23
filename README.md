@@ -65,6 +65,7 @@ Data Analysis Summary
 * However, in 2017 compared to 2007-2017 there several other contries with the highest Internet use by population share. Specifically, Kuwait (Middle East), Qatar (Middle East), Aruba (South America) and Monaco (Western Europe). 
 &nbsp;
 
+
 ### 2. What are the top 10 countries with the highest internet use (by number of users)?
 &nbsp;
 
@@ -74,6 +75,7 @@ Data Analysis Summary
 * These countries differ significantly to the top countries with the highest internet use by population share (shown before). Noticeably, most of these countries have larger populations comparing to Scandinavian and Northern European countries. This suggests that with a bigger population, more people are connected to the internet. However, this does not necessarily mean that all geographical areas within those countries are proportionally connected to the Web.
 &nbsp;
 
+
 ### 3. What are the top countries with the highest internet use in different World regions?
 &nbsp;
 
@@ -82,16 +84,18 @@ Data Analysis Summary
 * Noticeably, South Asian countries have the lowest population proportions using Internet. 
 &nbsp;
 
+
 ### 4. World regions Internet usage over time (by population share)
 &nbsp;
 
-![Graph_5](https://user-images.githubusercontent.com/78367070/203597111-56848256-ab58-4755-af20-13ad8060e1bc.png)
+![Graph_5 2](https://user-images.githubusercontent.com/78367070/203601560-c579e7c9-269a-431f-a549-c719f038c581.png)
 &nbsp;
 * Global Internet usage has expanded substantially from being close to 0% of the total world population in 1990. 
 * The biggest expansion is seen by North America. Just over 80% of the population in North America was connected to the Internet in 2010, and around 90% in 2015. 
 * North America is followed by Europe and Central Asia, with just over 70% of the population connecting to the Web in 2015.
 * Middle East and North Africa, Latin America and Caribbean, East Asia and Pacific are all between 50 and 70% of their respective population shares in 2017.
 * The slowest growth in Internet usage over the years is seen by South Asia, having just under 30% of population using the Internet in 2017.
+
 
 ### 5. World regions Internet usage over time (by number of users)
 &nbsp;
